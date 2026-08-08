@@ -1,8 +1,6 @@
 # Retail-Store-Sql-Analysis
 SQL analysis of a retail store database using filtering, aggregations, joins, subqueries, and set operations.
 
-# 🛒 Retail Store SQL Analysis
-
 ## 📌 Overview
 
 This project analyzes a retail store database using SQL to explore customers, products, orders, order items, payments, and product reviews. The project covers SQL concepts ranging from basic data retrieval and filtering to aggregations, multi-table joins, subqueries, and set operations.
