@@ -1,6 +1,6 @@
---                             =========================
---                                RETAIL STORE REPORT
---                             =========================
+--                                                      =========================
+--                                                         RETAIL STORE REPORT
+--                                                      =========================
 
 -- CREATING A DATABASE:
 CREATE DATABASE RETAIL_STORE;
